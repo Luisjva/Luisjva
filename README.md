@@ -1,4 +1,4 @@
-### <h2 align="left">Hi 👋! My name is Luis Villegas and I'm a Front End Developer, from Venezuela</h2>
+<h2 align="left">Hi 👋! My name is Luis Villegas and I'm a Front End Developer, from Venezuela</h2>
 
 ###
 
@@ -40,3 +40,19 @@
 <!--<img src="https://raw.githubusercontent.com/luisjva/luisjva/output/snake.svg" alt="Snake animation" /> -->
 
 ###
+
+### Contáctame 📫
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisjva/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisjva16@gmail.com)
+
+<!--
+### Proyectos Destacados 🚀
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luisjva&repo=nombre_repo&theme=tokyonight)](link_repo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luisjva&repo=nombre_repo2&theme=tokyonight)](link_repo2)
+-->
+
+### Estadísticas de racha 🔥
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luisjva&theme=tokyonight)](https://git.io/streak-stats)
