@@ -54,5 +54,6 @@
 -->
 
 ### Estadísticas de racha 🔥
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luisjva&theme=tokyonight)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisjva&theme=tokyonight" alt="GitHub Streak" />
+</div>
